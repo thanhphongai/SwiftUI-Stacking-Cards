@@ -6,7 +6,7 @@ A SwiftUI implementation of stacking card animations inspired by iOS Lock Screen
 
 ## 🎬 Demo
 
-![Stacking Animation](Demo/demo.gif)
+![Stacking Animation](demo.gif)
 
 > Smooth transitions between stacked and expanded states with dynamic card heights
 
